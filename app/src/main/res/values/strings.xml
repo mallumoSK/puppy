@@ -1,0 +1,31 @@
+<resources>
+    <string name="app_name">Puppy</string>
+    <string name="up">Up</string>
+    <string name="clean_search">Clean search field</string>
+    <string name="search">Search</string>
+    <string name="disable_search">Disable search</string>
+    <string name="name_of_puppy">Name of puppy</string>
+    <string name="energy">ENERGY</string>
+    <string name="exercise_requirements">EXERCISE</string>
+    <string name="playfulness">PLAYFULNESS</string>
+    <string name="affection_level">AFFECTION</string>
+    <string name="friendliness_to_dogs">WITH DOGS</string>
+    <string name="friendliness_to_other_pets">WITH OTHER PETS</string>
+    <string name="friendliness_to_strangers">WITH STRANGERS</string>
+    <string name="watchfulness">WATCHFULNESS</string>
+    <string name="ease_of_training">TRAINING</string>
+    <string name="grooming_requirements">GROOMING</string>
+    <string name="heat_sensitivity">HEAT</string>
+    <string name="vocality">VOCALITY</string>
+    <string name="info">Info</string>
+    <string name="history">History</string>
+    <string name="temperament">Temperament</string>
+    <string name="upkeep">Upkeep</string>
+    <string name="major_concerns">Major concerns</string>
+    <string name="minor_concerns">Minor concerns</string>
+    <string name="occasionally_seen">Occasionally seen</string>
+    <string name="suggested_tests">Suggested tests</string>
+    <string name="life_span">Life span</string>
+    <string name="health">Health</string>
+    <string name="stats">Stats</string>
+</resources>
