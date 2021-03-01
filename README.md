@@ -1,4 +1,4 @@
-# #AndroidDevChallenge *
+# #AndroidDevChallenge
 ## Puppy
 
 
